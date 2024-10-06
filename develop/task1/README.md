@@ -7,4 +7,4 @@
 4. So, by now i havent decided, will i do with stm32 microcontroller or the esp32, as i have both.
 But probably, it will be stm. I will use the C programming language, and their IDE for developmment. Also, to make my life easier, and yours to check the next tasks later,
 i will use HAL libraries, which are the abstraction of assigning 0 and 1 to the registers, i think you understand me.
-From software side, this coulde be c++, and some graphical interface.
+From software side, this coulde be c++, and some graphical interface
